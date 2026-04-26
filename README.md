@@ -20,7 +20,7 @@ pip install requests beautifulsoup4 openpyxl lxml
 python main.py
 ```
 
-Usage
+## Usage
 - Select a category (Jobs / Products / News)
 - Click Scrape Now to fetch live data, or Load Demo Data to test offline
 - Check Auto-Refresh and set an interval for automatic updates
