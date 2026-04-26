@@ -13,7 +13,7 @@ A Python-based GUI application for scraping Jobs, Products, and News from real w
 
 ## Requirements
 ```bash
-pip install requests beautifulsoup4 openpyxl lxml
+pip install requests beautifulsoup4 openpyxl lxml selenium
 ```
 ## Run
 ```
